@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class ContaCriacao {
-  // TODO: Definir os metodos de comportamentos da Model
   ContaModel contaModel = new ContaModel();
 
   Scanner ler = new Scanner(System.in);
